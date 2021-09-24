@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "2"
+version: "3"
 id: "mlmcarthur-ci-ops-controller"
 description: "CloudBees CI configuration bundle for the mlmcarthur-ci ops-controller Controller"
 jcasc:
